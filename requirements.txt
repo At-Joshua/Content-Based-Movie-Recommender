@@ -2,3 +2,4 @@ pickle
 requests
 joblib
 scikit-learn
+pathlib
